@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="7.1 Kartenverkauf Maven:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="kartenverkauf.war">
+      <element id="artifact" artifact-name="7.1 Kartenverkauf Maven:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="7.1 Kartenverkauf Maven:war exploded">
+    <output-path>$PROJECT_DIR$/target/kartenverkauf</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="7.1 Kartenverkauf Maven" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/kartenverkauf/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="7.1 Kartenverkauf Maven/web/Web" />
+    </root>
+  </artifact>
+</component>
